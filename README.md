@@ -17,8 +17,7 @@ This Java-Practice-Course will be making use of java language to allow Students 
 
 In Majority, new programmer stuck at one topic due to lack of practice question form begining --> advance so they loose intrest in coding and think - it's not my cup of tea :(
 
-To Help out the new programmers more precisely self-taught programmers in learning java , i am making this repo and inviting all the java programmers to contribute in, as per
-.
+To Help out the new programmers more precisely self-taught programmers in learning java , i am making this repo and inviting all the java programmers to contribute in, as per their skill set :D
 
 
 ## ⭐ How to get started Contributing in?
