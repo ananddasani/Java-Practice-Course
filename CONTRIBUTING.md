@@ -17,9 +17,6 @@ You have a GitHub repo and can push to it. All is well. But how the heck do you 
   <img src="img/git Branch.jpg" width="1000" /><br>
 
 - You can now check the branches by pushing in the command: git branch. You will see the Master Branch and another branch with your username.
-- Switch to Development Branch. Never develop on Master Branch. Push in the command: git checkout < YOURUSERNAME >.<br>
-  <img src="imp/git checkout.jpg" width="1000"/><br>
-
 - Start Coding. Make apt commits with proper commit messages. Always use git status to see that you have not made changes on the file you were supposed not to.
 - Add all the changes with this command: (git add .). This will add the changes to your present workspace. <br>
   <img src="img/git add.jpg" width="1000"/><br>
