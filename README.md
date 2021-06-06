@@ -21,7 +21,6 @@ To Help out the new programmers more precisely self-taught programmers in learni
 .
 
 
-
 ## ⭐ How to get started Contributing in?
 
 You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
@@ -30,6 +29,19 @@ You can refer to the following articles on the basics of Git and Github and also
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+
+
+
+## Contributing Guidelines
+
+- **Plagiarism is strictly not allowed**. Any work that is found to be suspicious of plagiarized work will not be merged.
+- Issues will be assigned on a _first come, first serve_ basis. You just have to comment on the issue, asking to be assigned, and it will be done if found fit.
+- Preferably, you cannot work on any issue that is not assigned to you.
+- In case you want to submit an improvement to an existing algorithm, we prefer that you create an issue, describing in detail your improvement. This will help others to analyze your contribution.
+- If you have anything else in mind, create an issue, and please wait for it to be assigned to you. You can then start working on it and create a PR.
+- All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and once found fit, make a PR.
+
+Make sure your code works before submitting it :D
 
 
 ## 💥 How to Contribute?
