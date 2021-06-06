@@ -68,3 +68,8 @@ Issues can be used to keep track of bugs, enhancements, or other requests.
 - Issues would be tagged as Easy, Medium, Hard. Scores would be assigned on the difficulty of Issue you solve.
 - Code would be reviewed by Mentors before they are merged. Every PR requires 3 Reviews.
 - No person can take up more than 2 Issues at a single point of time.
+
+
+## Refrence
+
+This CONTRIBUTING file is refrenced from the [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo/blob/master/CONTRIBUTING.md)
