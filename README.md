@@ -54,7 +54,7 @@ Make sure your code works before submitting it :D
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Read the [Code of Conduct](CODE_OF_CONDUCT.md)
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
-<!-- - Having difficulty in contributing? Read the [Contribution Guide](CONTRIBUTING.md) for a detailed explanation. -->
+- Having difficulty in contributing? Read the [Contribution Guide](CONTRIBUTING.md) for a detailed explanation.
 
 
 ## Technology Stack 🛠️
