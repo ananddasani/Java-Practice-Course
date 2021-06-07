@@ -64,6 +64,34 @@ Make sure your code works before submitting it :D
 
 - **Project Management Tools**: Git/Github, Markdown (Documentation)
 
+---
+
+### :sparkles: Top Contributers 
+<!--START_SECTION:top-contirbuters-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ananddasani">
+        <img src="https://avatars.githubusercontent.com/u/74413402?s=400&u=f0e841bfa3bad7e069702458b4f860550545b0ac&v=4" width="100px;" alt="ananddasani"/>
+      </a>
+      <br />
+      <a href="https://github.com/ananddasani">Anand Dasani</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-contributers-->
+
+---
+
+## ❤️ Project Maintainers
+<table>
+<tr>
+<td align="center"><a href="https://github.com/ananddasani"><img src="https://avatars.githubusercontent.com/u/74413402?s=400&u=f0e841bfa3bad7e069702458b4f860550545b0ac&v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Anand Dasani</h4>
+<a href="https://www.linkedin.com/in/anand-dasani-b72954202/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+
+</tr>
+</table>
+
 
 ## License
 
