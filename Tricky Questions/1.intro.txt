@@ -1,0 +1,5 @@
+This is a "Tricky_package"
+
+In this package all the program will be written to solve some of the tricky question that are being asked in Interviews
+
+AIM :: To Practice commonly asked questions
