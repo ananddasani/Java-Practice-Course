@@ -77,6 +77,13 @@ Make sure your code works before submitting it :D
       <br />
       <a href="https://github.com/ananddasani">Anand Dasani</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Amisha-here">
+        <img src="https://avatars.githubusercontent.com/u/66164747?v=4" width="100px;" alt="Amisha-here"/>
+      </a>
+      <br />
+      <a href="https://github.com/ananddasani">Amisha Purswani</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-contributers-->
