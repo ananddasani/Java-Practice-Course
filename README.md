@@ -77,9 +77,15 @@ Make sure your code works before submitting it :D
       <br />
       <a href="https://github.com/ananddasani">Anand Dasani</a>
     </td>
+
      <td align="center">
       <a href="https://github.com/Amisha-here">
         <img src="https://avatars.githubusercontent.com/u/66164747?v=4" width="100px;" alt="amishapurswani"/>
+
+    <td align="center">
+      <a href="https://github.com/Amisha-here">
+        <img src="https://avatars.githubusercontent.com/u/66164747?v=4" width="100px;" alt="Amisha-here"/>
+
       </a>
       <br />
       <a href="https://github.com/Amisha-here">Amisha Purswani</a>
@@ -99,6 +105,7 @@ Make sure your code works before submitting it :D
 </tr>
 </table>
 
+---
 
 ## License
 
