@@ -1,0 +1,15 @@
+This is a "Practical_package"
+
+In this package all the program will be written to solve some of the classic problem covering all the concepts of Java
+
+
+AIM :: To Practice commonly asked questions
+
+
+'FILE FORMATTING WILL BE :: '
+
+PR_#_about.java
+
+PR --> Represents Practical
+# --> Represents file number
+about --> some key highlight about the program
