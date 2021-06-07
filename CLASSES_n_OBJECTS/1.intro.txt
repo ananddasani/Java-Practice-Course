@@ -1,0 +1,15 @@
+This is a "basic_oop_package"
+
+In this package all the program will be written to give the highlights of all of OOPs concepts
+(Some practice program will be also there)
+
+AIM :: to understand OOP, File IO, Exception Handling
+
+
+'FILE FORMATTING WILL BE :: '
+
+oop#_about.java
+
+oop --> Represents object oriented programming
+# --> Represents file number
+about --> some key highlight about the program
