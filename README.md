@@ -99,6 +99,7 @@ Make sure your code works before submitting it :D
 </tr>
 </table>
 
+---
 
 ## License
 
