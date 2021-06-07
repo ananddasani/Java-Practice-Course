@@ -1,0 +1,26 @@
+This is a "practice_oop_package"
+
+In this package all the program will be written to Practice all of the OOPs concepts we have learned so far.
+(Some practice program will be of Advance level also)
+
+AIM :: to Practice hard OOP, File IO, Exception Handling.
+
+'FILE FORMATTING WILL BE :: '
+
+P#_about.java
+
+P --> Represents Practice
+# --> Represents file number
+about --> some key highlight about the program
+
+
+
+                                               INDEX
+SR_NO.         TOPIC
+
+p1 - p# -->  A First Look at Classes
+p# - p# -->  Second Look at Classes and Objects
+p# - p# -->  Inheritance
+p# - p# -->  Polymorphism
+p# - p# -->  Abstract Classes
+p# - p# -->  Interfaces
