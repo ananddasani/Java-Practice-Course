@@ -21,7 +21,5 @@ p1 - p8 -->  SELECTION (DECISION STRUCTURE)
 p9 - p12 -->  Mathematical Functions, Characters, and Strings
 p13 - p16 -->  LOOPS AND FILES (BASIC)
 p17 - p28 -->  METHODS
-p# - p# -->  ARRAYS(SINGLE & MULTI D) AND ARRAYLIST ,(WITH CLASSES AND OBJECT)
-p# - p# -->  TEXT WRAPPER AND WRAPPER CLASSES
-p# - p# -->  EXCEPTION HANDLING AND ADV. FILE PRACTICE
+p29 - p39 -->  ARRAYS(SINGLE & MULTI D)
 p# - p# -->  GAME :)
