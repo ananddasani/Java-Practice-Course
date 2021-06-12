@@ -67,6 +67,7 @@ Make sure your code works before submitting it :D
 ---
 
 ### :sparkles: Top Contributers 
+Thanks go to these wonderful people:
 <!--START_SECTION:top-contirbuters-->
 <table>
   <tr>
