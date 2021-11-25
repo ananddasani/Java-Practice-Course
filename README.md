@@ -19,6 +19,10 @@ In Majority, new programmer stuck at one topic due to lack of practice question 
 
 To Help out the new programmers more precisely self-taught programmers in learning java , i am making this repo and inviting all the java programmers to contribute in, as per their skill set :D
 
+## Where to go from here ?
+
+Now you have sufficient knowledge and grip on Java so i recommend to have a look on Java's Collection Framwork <br>
+No Need to heed to somewhere else have a look on my [**Java Collection Framwork Course**](https://github.com/ananddasani/Java_Collection_Framework)
 
 ## ⭐ How to get started Contributing in?
 
