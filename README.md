@@ -22,7 +22,9 @@ To Help out the new programmers more precisely self-taught programmers in learni
 ## Where to go from here ?
 
 Now you have sufficient knowledge and grip on Java so i recommend to have a look on Java's Collection Framwork <br>
-No Need to heed to somewhere else have a look on my [**Java Collection Framwork Course**](https://github.com/ananddasani/Java_Collection_Framework)
+No Need to heed to somewhere else, have a look on my 
+1. [**Java Collection Framwork Course**](https://github.com/ananddasani/Java_Collection_Framework)
+2. [**Advance Java Course**](https://github.com/ananddasani/Advance-Java-Practice-Course)
 
 ## ⭐ How to get started Contributing in?
 
@@ -69,10 +71,10 @@ Make sure your code works before submitting it :D
 - **Project Management Tools**: Git/Github, Markdown (Documentation)
 
 ---
-
+<!-- 
 ### :sparkles: Top Contributers 
 Thanks go to these wonderful people:
-<!--START_SECTION:top-contirbuters-->
+
 <table>
   <tr>
     <td align="center">
@@ -91,9 +93,11 @@ Thanks go to these wonderful people:
     </td>
   </tr>
 </table>
-<!--END_SECTION:top-contributers-->
 
 ---
+
+ -->
+
 
 ## ❤️ Project Maintainers
 <table>
